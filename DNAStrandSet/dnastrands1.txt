@@ -1,0 +1,4 @@
+>S1 CAT
+>S2 TAG
+>S1 GAT
+>S4 GGG

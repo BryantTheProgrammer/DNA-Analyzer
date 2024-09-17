@@ -1,0 +1,4 @@
+>S5 CAA
+>S2 TAG
+>S6 GAA
+>S5 GGG
